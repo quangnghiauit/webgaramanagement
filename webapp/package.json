@@ -55,7 +55,7 @@
     "react-codemirror2": "3.0.7",
     "react-cookie": "^3.0.8",
     "react-dates": "15.3.0",
-    "react-dom": "16.2.0",
+    "react-dom": ">=16.2.1",
     "react-google-maps": "9.4.5",
     "react-ladda": "5.0.7",
     "react-quill": "1.2.3",
