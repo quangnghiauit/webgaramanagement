@@ -1,0 +1,169 @@
+.search-customer .search{
+    width: 30%;
+    left: 70%;
+}
+.search-customer #table-users{
+    margin-top: 10px;
+}
+.search-customer #pagination{
+    float: right;
+}
+.search-car .search{
+    width: 30%;
+    left: 70%;
+}
+.search-bill .search{
+    width: 30%;
+    left: 70%;
+}
+.report-inventory .search{
+    width: 30%;
+    left: 70%;
+}
+.import-materials .search{
+    width: 30%;
+    left: 70%;
+}
+.import-bill .search {
+    width: 30%;
+    left: 70%;
+}
+.search-materials .search{
+    width: 30%;
+    left: 70%;
+}
+
+.search-car #table-cars{
+    margin-top: 10px;
+}
+.search-car #pagination{
+    float: right;
+}
+
+.bill-info #btn-export-bill{
+    float:right;
+}
+
+.history-trans-user .search{
+    width: 40%;
+    left: 60%;
+}
+.history-trans-user #table-cars{
+    margin-top: 10px;
+}
+.history-trans-user #pagination{
+    float: right;
+}
+.history-trans-user #list-cars{
+    height: 437px;
+}
+
+.role-management .search{
+    width: 30%;
+    left: 70%;
+}
+.role-management #table-roles{
+    margin-top: 10px;
+}
+.role-management #pagination{
+    float: right;
+}
+
+.user-management .search{
+    width: 30%;
+    left: 70%;
+}
+.user-management #table-users{
+    margin-top: 10px;
+}
+.user-management #pagination{
+    float: right;
+}
+
+.search-car-handling .search{
+    width: 30%;
+    left: 70%;
+}
+.search-car-handling #table-cars-handling{
+    margin-top: 10px;
+}
+.search-car-handling #pagination{
+    float: right;
+}
+
+.search-materials .search{
+    width: 30%;
+    left: 70%;
+}
+.search-materials #table-materials{
+    margin-top: 10px;
+}
+.search-materials #pagination{
+    float: right;
+}
+
+.import-materials .search{
+    width: 30%;
+    left: 70%;
+}
+.import-materials #table-import-materials{
+    margin-top: 10px;
+}
+.import-materials #pagination{
+    float: right;
+}
+
+.import-bill .search{
+    width: 30%;
+    left: 70%;
+}
+.import-bill #table-bill{
+    margin-top: 10px;
+}
+.import-bill #pagination{
+    float: right;
+}
+
+.search-bill .search{
+    width: 30%;
+    left: 70%;
+}
+.search-bill #table-bill{
+    margin-top: 10px;
+}
+.search-bill #pagination{
+    float: right;
+}
+
+.report-inventory .search{
+    width: 30%;
+    left: 70%;
+}
+.report-inventory #table-report-inventory{
+    margin-top: 10px;
+}
+.report-inventory #pagination{
+    float: right;
+}
+
+.report-revenue .search{
+    width: 30%;
+    left: 70%;
+}
+.report-revenue #table-report-revenue{
+    margin-top: 10px;
+}
+.report-revenue #pagination{
+    float: right;
+}
+
+.client-search-bill .search{
+    width: 30%;
+    left: 70%;
+}
+.client-search-bill #table-bill{
+    margin-top: 10px;
+}
+.client-search-bill #pagination{
+    float: right;
+}
