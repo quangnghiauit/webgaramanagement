@@ -34,7 +34,7 @@ public class HomeController {
         if (auth.getAuthorities().toString().equals("[ROLE_ACCOUNTANT]")) {
             return new ResponseEntity<>("true", HttpStatus.OK);
         } else
-            return new ResponseEntity<>("false", HttpStatus.OK);
+            return new ResponseEntity<>("Hello everyone", HttpStatus.OK);
     }
 
     @PostMapping("/login")
