@@ -29,4 +29,4 @@ jobs:
         app-name: 'garamanagement'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_89603ecbd8c64393ada4d19fc0fb0c8c }}
-        package: '${{ github.workspace }}/target/*.war'
+        package: '${{ github.workspace }}/target/*.jar'
