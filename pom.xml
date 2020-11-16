@@ -10,8 +10,9 @@
 	</parent>
 	<groupId>com.nghia.uit</groupId>
 	<artifactId>webgarage</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>webgarage</name>
+	<packaging>jar</packaging>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
