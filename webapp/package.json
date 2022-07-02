@@ -36,14 +36,14 @@
     "url-loader": "0.6.2",
     "webpack": "3.10.0",
     "webpack-dev-server": ">=3.1.11",
-    "react-dates": "12.2.4"
+    "react-dates": "12.2.4",
+    "react-bootstrap-table": "4.3.1"
   },
   "dependencies": {
     "antd": "^3.16.5",
     "axios": ">=0.21.2",
     "bootstrap": "4.0.0-beta.3",
     "chart.js": ">=2.9.4",
-    "codemirror": "5.33.0",
     "flag-icon-css": "2.9.0",
     "font-awesome": "^4.7.0",
     "history": "4.7.2",
