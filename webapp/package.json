@@ -8,6 +8,7 @@
   "license": "http://coreui.io/pro/license/",
   "private": true,
   "devDependencies": {
+    "axios": ">=0.21.2",
     "babel-core": "6.26.0",
     "babel-loader": "7.1.2",
     "babel-plugin-transform-object-rest-spread": "6.26.0",
@@ -38,7 +39,7 @@
   },
   "dependencies": {
     "antd": "^3.16.5",
-    "axios": "^0.18.0",
+    "axios": ">=0.21.2",
     "bootstrap": "4.0.0-beta.3",
     "chart.js": "2.7.1",
     "codemirror": "5.33.0",
