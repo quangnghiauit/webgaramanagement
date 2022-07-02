@@ -34,7 +34,7 @@
     "uglify-js": "3.3.5",
     "url-loader": "0.6.2",
     "webpack": "3.10.0",
-    "webpack-dev-server": "2.9.7",
+    "webpack-dev-server": ">=3.1.11",
     "react-dates": "12.2.4"
   },
   "dependencies": {
@@ -68,6 +68,7 @@
     "reactstrap": "5.0.0-alpha.4",
     "redux": "^4.0.1",
     "simple-line-icons": "^2.4.1",
+    "webpack-dev-server": ">=3.1.11",
     "spinkit": "1.2.5"
   },
   "scripts": {
